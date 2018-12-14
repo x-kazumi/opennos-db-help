@@ -1,0 +1,128 @@
+﻿ShopType ID:
+1:	Miniland
+2:	Passive Skills/Active Skills
+3:	WeaponShop/Armour/Equip(shoes etc)/Upgrade EQ/PartnerEQ
+4:	Gambling
+5:	Accessories
+6:	Food/Cook
+7:	MagicItems/combination/Alchemie/SP Upgrade/Perfection
+8:	Equipment
+9:	Miniland
+10:	Accessories
+11:	Accessories
+12:	Skills
+13:	Equipment/Gambling
+14:	SP Upgrade
+15:	Weapon/Equipment/Upgrade Equipment/Gambling
+16:	Equipment/combination
+17:	Accessories
+18:	MagicItem/Alchemie/SPUpgrade/Perfi
+19:	Accessories/Accessories
+20:	Food
+21:	PartnerEQ/Minland
+22:	Skills
+23:	MagicItem/combination/Alchemie/SP/Alchemie/SPUpgrade/Perfi
+24:	Accessories/PartnerEQ
+25: 	Weapon/Equipment/Equipment
+26:	Upgrade/Gambling
+27:	SPUpgrade
+28:	SPUpgrade
+29:	----------
+30:	Accessories
+31:	check relicts
+32:	exchange (Crafting)
+33:	exchange (Crafting)
+34:	exchange (Crafting)
+35:	Food/cooking
+36:	Weapon-Armor/PartnerEquipment/Equipment
+37:	MagicItem/Alchemie/SP/Perfi
+38:	Skill
+39:	Accessories/Accessories
+40:	Equipment/UpgradeEquipment/Gambling
+41:	----------
+42:	Accessories
+43:	----------
+44:	Accessories
+45:	Accessories
+46:	check relicts
+47:	SPUpgrade
+48:	----------
+49:	----------
+50:	SPUpgrade
+
+
+
+Dialog ID:
+1.	Open Shop/Production/start conversation/Get quest
+2.	Gambling/start conversation/Get quest
+3.	Open Shop/change class/Family/start conversation/Event/Get quest
+4.	Learn Skill/start conversation
+5.	Learn Skill
+6.	Open Shop
+7.	------------
+8.	------------
+9.	Open Shop
+10.	Open Shop/start conversation/remove princess sakura
+11.	Register for Rainbowbattle/Individual Arena/FamilyArena/Teleport/Reviveplace
+12.	Open Shop
+13.	Open Shop
+14.	Open Shop
+15.	Open Shop
+16.	Register for Rainbowbattle/Individual Arena/FamilyArena/Teleport/Reviveplace
+17.	Register for Rainbowbattle/Individual Arena/FamilyArena
+18.	Get quest
+19.	Open Shop/change class/Family/start conversation/Get quest/official event
+20.	enter LOD
+21.	Open Shop/start conversation/remove princess sakura
+22.	Open Shop/start conversation/remove princess sakura
+23.	"
+24.	Open Shop/change class/Family/start conversation/Get quest/useyourreserves
+25.	Production
+26.	Open Shop
+27.	Exchange Airwaves/exchange Airwaveslabel
+28.	Santa Dialog
+29.	Open Shop
+30.	-----------
+31.	-----------
+32.	-----------
+33.	-----------
+34.	-----------
+35.	-----------
+36.	-----------
+37.	-----------
+38.	-----------
+39.	-----------
+40.	Act1 FernonDialog
+41.	-----------
+42.	Schluri 
+43.	-----------
+44.	-----------
+45.	-----------
+46.	Get quest
+47.	Get quest
+48.	Jajamaru Dialog
+49.	-----------
+50.	-----------
+449. Open Shop
+
+
+MenuType IDs:
+
+0. Normal Shops
+1. Skill Shop
+2.---------
+3.---------
+4. Miniland Shop
+
+
+
+ShopItem (I'm not 100% sure)
+
+Types:
+
+10. Weapon
+11. Armor
+12. Ammunition (14 works also)
+14. Fireworks  (i guess 12 will work too)
+15. Accessories
+16. Ressis
