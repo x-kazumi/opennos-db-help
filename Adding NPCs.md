@@ -4,7 +4,7 @@
 ### **Please uncheck the "Limit records" box at the bottom right corner to prevent issues ![Like this](https://i.imgur.com/iiIwIqQ.png)
 
 ### Adding an NPC
-First of all you need to open your Database and head over to the Table **MapNPC**
+First of all you need to open your Database and head over to the Table _MapNPC_
 Here you will create an NPC. You can either edit an _existing one_ or create a **new one**. We will create a **new one** in this tutorial.
 
 The first column **MapNpcID** is to set the ID of your NPC. Just be sure there are no double ID's because if there are you will get an error when saving the new NPC. If it says Identity Inser set to off then let the column empty and it will be created automatically.
@@ -44,3 +44,19 @@ You can double right-click to center your camera from south to north then you do
 
 
 **Congrats :D You just created your first NPC :D Don't forget to save the NPC!!!** ![](https://i.gyazo.com/fba69b603c576b9ceed018f4d9878888.png)
+
+
+
+### Creating a Shop
+
+To create a Shop you will head over to the _Shop_ Table.
+
+The first column **ShopId** is handled the same as **MapNpcId**.
+
+In **MapNpcId** you just enter the **MapNpcId** of the Npc you created before.
+
+**MenuType** Is kinda important for your different Shops. If you create a normal Shop with Items you just use MenuType 0. For Skill Shops you use MenuType 1 and for Miniland Shops you use Menutype 4.
+Example:
+![](https://i.gyazo.com/4773c5c453be39b1ce83607962af4052.png) MenuType 1
+![](https://i.gyazo.com/8b1eb0dd37b2feaa3820437236862223.png) MenuType 0
+![](https://i.gyazo.com/22c34dffbda3d4da8a680a34df519880.jpg) MenuType 4
