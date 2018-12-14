@@ -33,4 +33,5 @@ Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 **NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List I will link a very good Tool to create one at the end of this.
 
 **Position** is the direction the NPC will look. You can just do $Position and check what "Dir" says. To change YOUR direction use the Arrow Keys. Otherwise look at the Minimap and check your direction. 
+
 ![](https://i.gyazo.com/81ec7125b73cadd5f323ce68386c431e.png)
