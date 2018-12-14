@@ -27,7 +27,9 @@ _If set to 0 you cant talk with the NPC's_
 
 Left is sitting and right one is NOT sitting. I am NOT sure if every Monster has a sitting animation. So use this carefully. If the NPC has no sitting animation it most likely will be invisible.
 
-**MapID, MapX and MapY** Here you will enter the Position of your NPC. To know the coordinates you will head into the game and do the $Position command.  ![](https://i.gyazo.com/0e80c9a6063c1c4b649cc00d43a0dfac.png)
+**MapID, MapX and MapY** Here you will enter the Position of your NPC. To know the coordinates you will head into the game and do the $Position command.  
+
+![](https://i.gyazo.com/0e80c9a6063c1c4b649cc00d43a0dfac.png)
 Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 
 **NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List I will link a very good Tool to create one at the end of this.
@@ -37,3 +39,6 @@ Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 ![](https://i.gyazo.com/81ec7125b73cadd5f323ce68386c431e.png)
 
 You can double right-click to center your camera from south to north then you do not need to look at the minimap anymore :D
+
+
+**Congrats :D You just created your first NPC :D Don't forget to save the NPC!!!** ![](https://i.gyazo.com/fba69b603c576b9ceed018f4d9878888.png)
