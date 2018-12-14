@@ -47,6 +47,8 @@ You can double right-click to center your camera from south to north then you do
 
 
 
+
+
 ### Creating a Shop
 
 To create a Shop you will head over to the _Shop_ Table.
@@ -72,3 +74,35 @@ This for example is ShopType 3:
 
 And this one is ShopType 4:
 ![](https://i.gyazo.com/343fa9cc98e4be171fe8a6f629c1124a.png)
+
+
+Nice!! You just created your first shop :D but wait.. There are no items yet :O
+
+
+
+### Adding Items to your Shop
+
+To add Items to your Shop you will check the **ShopItem** Table.
+
+The **ShopItemId** is handled like the _ShopId_ and _MapNpcId_.
+
+**Color** doesn't work I guess. So just leave it at 0 :D
+
+**ItemVNum** is gonna be the Item you want to sell in the Shop. For the ID's check your ID-List. As i already said I will link the ID-List Creator Tool below.
+
+**Rare** will set a rare to the item if it's a weapon, armor or shell.
+
+**ShopId** is gonna be the **ShopId** that we just set for the Shop you made a few steps ago.
+
+The **Slot** is the place in the Inventory where the item will be. ![](https://i.gyazo.com/9946700ad1ff0fe20b44e067932d4654.png)
+
+**Type** is kinda important bc if you use the wrong type the item won't be shown. For Ammunition like Arrows you would use Type 12 or 14 _(work both)_. If you would use 0 they wouldn't be shown.
+
+**Upgrade** is the Upgradelevel of the item beeing sold. 10 would make the Armor/Weapon +10 :D You can even make Ressis Sum5 or whatever you like by putting the Combination level in **Upgrade**. It's a bit buggy but it works.
+
+![](https://i.gyazo.com/43ba348a650d065f6b1d53f6d7ababee.png)
+
+![](https://i.gyazo.com/687537360cb0faec0c0e802f24926e3a.png)
+
+![](https://i.gyazo.com/83b135d337a81fc6bfb15e63d5246e87.png)
+
