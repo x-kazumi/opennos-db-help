@@ -35,3 +35,5 @@ Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 **Position** is the direction the NPC will look. You can just do $Position and check what "Dir" says. To change YOUR direction use the Arrow Keys. Otherwise look at the Minimap and check your direction. 
 
 ![](https://i.gyazo.com/81ec7125b73cadd5f323ce68386c431e.png)
+
+You can double right-click to center your camera from south to north then you do not need to look at the minimap anymore :D
