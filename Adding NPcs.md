@@ -1,7 +1,7 @@
 # How to add NPC's to your Private Server 
 (_includes roaming NPC's, Shops, Invisible Nametags_)
 
-###**Please uncheck the "Limit records" box at the bottom right corner to prevent issues ![Like this](https://imgur.com/a/7aGmEkw)
+### **Please uncheck the "Limit records" box at the bottom right corner to prevent issues ![Like this](https://i.imgur.com/iiIwIqQ.png)
 
 ### Adding an NPC
 First of all you need to open your Database and head over to the Table **MapNPC**
