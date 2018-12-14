@@ -106,3 +106,10 @@ The **Slot** is the place in the Inventory where the item will be. ![](https://i
 
 ![](https://i.gyazo.com/83b135d337a81fc6bfb15e63d5246e87.png)
 
+
+Congrats! You finished your NPC made it a Shop and added Items to the Shop :D Glad you are selling an Ancelloan Blessing. But don't you think 0 Gold is too cheap?
+
+
+### Changing the Price of you Items
+
+To change the price of your Items simply go to the **Item** Table scroll to the right till you reach **Price** and type in the price you want the Item to have. To find items faster just press ctrl+f or use the filter function of Navicat.
