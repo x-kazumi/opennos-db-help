@@ -23,7 +23,9 @@ _If set to 0 you cant talk with the NPC's_
 
 **IsMoving** can be set to 0. If it is set to 1 the NPC will roam around the Position you will place him. **IMPORTANT**: Not every Monster has a walking animation. If you spawn Mimi for example and set it to 1 she will move but everytime she moves she will be invisible.
 
-**IsSitting**. Same here. 0 for no and 1 for yes. ![Example for 1](https://i.gyazo.com/2974acb793fa2ea22f2a86f351e13a71.png) ![Example for 0](https://i.gyazo.com/f34a711c55424ca8ea1856cd6aeb6227.png)
+**IsSitting**. Same here. 0 for no and 1 for yes. 
+
+![Example for 1](https://i.gyazo.com/2974acb793fa2ea22f2a86f351e13a71.png) ![Example for 0](https://i.gyazo.com/f34a711c55424ca8ea1856cd6aeb6227.png)
 
 Left is sitting and right one is NOT sitting. I am NOT sure if every Monster has a sitting animation. So use this carefully. If the NPC has no sitting animation it most likely will be invisible.
 
