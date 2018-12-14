@@ -62,3 +62,13 @@ Example:
 MenuType 1 ![](https://i.gyazo.com/4773c5c453be39b1ce83607962af4052.png) 
 MenuType 0 ![](https://i.gyazo.com/8b1eb0dd37b2feaa3820437236862223.png) 
 MenuType 4 ![](https://i.gyazo.com/22c34dffbda3d4da8a680a34df519880.jpg)
+
+The **Name** will be the Name of the Shop ![](https://i.gyazo.com/b51b85a6b47156df9cfd39bdfc321dfe.png)
+
+**ShopType** is very important!! As I already said i will attach a .txt file with all the ID's that I know.
+
+This for example is ShopType 3:
+![](https://i.gyazo.com/0b75f5bb2225da15762ec5499b645a7a.png)
+
+And this one is ShopType 4:
+![](https://i.gyazo.com/343fa9cc98e4be171fe8a6f629c1124a.png)
