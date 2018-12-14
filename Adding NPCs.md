@@ -56,7 +56,8 @@ The first column **ShopId** is handled the same as **MapNpcId**.
 In **MapNpcId** you just enter the **MapNpcId** of the Npc you created before.
 
 **MenuType** Is kinda important for your different Shops. If you create a normal Shop with Items you just use MenuType 0. For Skill Shops you use MenuType 1 and for Miniland Shops you use Menutype 4.
+
 Example:
-![](https://i.gyazo.com/4773c5c453be39b1ce83607962af4052.png) MenuType 1
-![](https://i.gyazo.com/8b1eb0dd37b2feaa3820437236862223.png) MenuType 0
-![](https://i.gyazo.com/22c34dffbda3d4da8a680a34df519880.jpg) MenuType 4
+MenuType 1 ![](https://i.gyazo.com/4773c5c453be39b1ce83607962af4052.png) 
+MenuType 0 ![](https://i.gyazo.com/8b1eb0dd37b2feaa3820437236862223.png) 
+MenuType 4 ![](https://i.gyazo.com/22c34dffbda3d4da8a680a34df519880.jpg)
