@@ -34,7 +34,7 @@ Left is sitting and right one is NOT sitting. I am NOT sure if every Monster has
 ![](https://i.gyazo.com/0e80c9a6063c1c4b649cc00d43a0dfac.png)
 Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 
-**NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List you can use [this](https://www.elitepvpers.com/forum/nostale-hacks-bots-cheats-exploits/3470713-release-updated-id-tool-6-3_02-hotfix.html) very good tool to create a list :D.
+**NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List you can use [this](https://www.elitepvpers.com/forum/nostale-hacks-bots-cheats-exploits/3470713-release-updated-id-tool-6-3_02-hotfix.html) very good tool to create a list by IceTrailer :D.
 
 **Position** is the direction the NPC will look. You can just do $Position and check what "Dir" says. To change YOUR direction use the Arrow Keys. Otherwise look at the Minimap and check your direction. 
 
@@ -88,7 +88,7 @@ The **ShopItemId** is handled like the _ShopId_ and _MapNpcId_.
 
 **Color** doesn't work I guess. So just leave it at 0 :D
 
-**ItemVNum** is gonna be the Item you want to sell in the Shop. For the ID's check your ID-List. As i already said I will link the ID-List Creator Tool below.
+**ItemVNum** is gonna be the Item you want to sell in the Shop. For the ID's check your ID-List. [Here](https://www.elitepvpers.com/forum/nostale-hacks-bots-cheats-exploits/3470713-release-updated-id-tool-6-3_02-hotfix.html) you can get the ID List creator by IceTrailer :)
 
 **Rare** will set a rare to the item if it's a weapon, armor or shell.
 
