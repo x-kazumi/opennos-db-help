@@ -4,7 +4,7 @@
 ### **Please uncheck the "Limit records" box at the bottom right corner to prevent issues ![Like this](https://i.imgur.com/iiIwIqQ.png)
 
 ### Adding an NPC
-First of all you need to open your Database and head over to the Table _MapNPC_
+First of all you need to open your Database and head over to the Table **MapNPC**
 Here you will create an NPC. You can either edit an _existing one_ or create a **new one**. We will create a **new one** in this tutorial.
 
 The first column **MapNpcID** is to set the ID of your NPC. Just be sure there are no double ID's because if there are you will get an error when saving the new NPC. If it says Identity Inser set to off then let the column empty and it will be created automatically.
@@ -34,7 +34,7 @@ Left is sitting and right one is NOT sitting. I am NOT sure if every Monster has
 ![](https://i.gyazo.com/0e80c9a6063c1c4b649cc00d43a0dfac.png)
 Map:9 = MapID | X:61 = MapX | Y:101 = MapY
 
-**NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List I will link a very good Tool to create one at the end of this.
+**NpcVNum** will be the Monster ID of your NPC. Every Character in Nostale has an ID. _(e.g: Mimi's ID is 300 and Teoman Topp's ID is 301)_ If you do not have an ID List you can use [this](https://www.elitepvpers.com/forum/nostale-hacks-bots-cheats-exploits/3470713-release-updated-id-tool-6-3_02-hotfix.html) very good tool to create a list :D.
 
 **Position** is the direction the NPC will look. You can just do $Position and check what "Dir" says. To change YOUR direction use the Arrow Keys. Otherwise look at the Minimap and check your direction. 
 
