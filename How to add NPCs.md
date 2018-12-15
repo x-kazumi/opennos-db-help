@@ -113,3 +113,15 @@ Congrats! You finished your NPC made it a Shop and added Items to the Shop :D Gl
 ### Changing the Price of your Items
 
 To change the price of your Items simply go to the **Item** Table scroll to the right till you reach **Price** and type in the price you want the Item to have. To find items faster just press ctrl+f or use the filter function of Navicat.
+
+
+
+
+### Roaming NPC's
+
+To create a roaming npc like foxes or people that are walking around just create the npc and set IsMoving to 1. lul. No Shop needed etc :D Just watch out that the npc has moving animation :D
+
+
+### Invisible Nametags
+
+To create an invisible Nametag just make an NPC with the NpcVNum 925. Dialog to 0 and create the shop with the name but without items. 
